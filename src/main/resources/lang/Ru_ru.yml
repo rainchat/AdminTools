@@ -1,0 +1,17 @@
+Messages:
+  gamemode:
+    gamemode-change: '&7Ваш игровой режим иземенен на &a%player_gamemode%'
+    gamemode-change-another: '&7Ваш игровой режим иземенен на &a%player_gamemode%'
+  fly:
+    fly-enable: Вы включили режим полёта.
+      fly-disable: Вы выключили режим полёта.
+  god:
+    god-enable-another: Вы включили режим бога игроку &e%player_name%
+    god-enable: Вы включили режим бога.
+    god-disable: Вы выключили режим бога.
+    god-disable-another: Вы выключили режим бога игроку &e%player_name%.
+  vanish:
+    vanish-enable: Вы включили невидимость.
+    vanish-disable: Вы выключили невидимость.
+    vanish-enable-another: Вы включили невидимость игроку %player_name%.
+    vanish-disable-another: Вы выключили невидимость игроку %player_name%.
